@@ -1,4 +1,5 @@
 fichero1 15/03/23
 
 
-modificación_conflicto 19/04/2023
+modificación_conflictos_17/03/2023 (Habías puesto una fecha incorrecta)
+>>>>>>> 651329a9657449b50f3ab5cc253dde9897907324
